@@ -1,5 +1,5 @@
 const baseUrl =
-    "https://5e39d9d88d7e1300149cd70c.mockapi.io/api/v1/to_do_list";
+    "https://5e39d9d88d7e1300149cd70c.mockapi.io/api/v1/to_do_list_redux";
 
 
 export const createTask = (taskData) =>
